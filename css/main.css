@@ -18,6 +18,10 @@ body {
     font-family: 'Work Sans', sans-serif;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 .container {
     padding: 0 15px;
     margin: 0 auto;
